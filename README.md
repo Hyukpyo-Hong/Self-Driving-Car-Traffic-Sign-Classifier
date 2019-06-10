@@ -76,7 +76,6 @@ Visualize the German Traffic Signs Dataset using the pickled file(s). This is op
 
 The [Matplotlib](http://matplotlib.org/) [examples](http://matplotlib.org/examples/index.html) and [gallery](http://matplotlib.org/gallery.html) pages are a great resource for doing visualizations in Python.
 
-**NOTE:** It's recommended you start with something simple first. If you wish to do more, come back to it after you've completed the rest of the sections.
 
 
 ```python
@@ -1034,5 +1033,3 @@ Looking just at the first row we get `[ 0.34763842,  0.24879643,  0.12789202]`, 
 
 All my test images show their certainty almost 100% according to visualized softmax probabilities.
 
-> **Note**: Once you have completed all of the code implementations and successfully answered each question above, you may finalize your work by exporting the iPython Notebook as an HTML document. You can do this by using the menu above and navigating to  \n",
-    "**File -> Download as -> HTML (.html)**. Include the finished document along with this notebook as your submission.
